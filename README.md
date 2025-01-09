@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wahyu Candra Tama
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analyst & Visualization
+- 👀 I’m interested in Data Engineer
+- 🌱 I’m currently learning Data Science & Visualization
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/wahyucandratama/">My Linkedin</a>
 
 <!---
